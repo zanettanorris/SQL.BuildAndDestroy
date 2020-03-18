@@ -4,7 +4,7 @@ Given the scenarios, add the the directed queries to the "answers" directory's f
 
 ## Creating databases
 
-Write the correct SQL statement to create a new database called **myNewDB**.
+Write the correct SQL statement to create  a new database called **myNewDB**.
 
 *(Add your query to the file exercise1.sql)*
 

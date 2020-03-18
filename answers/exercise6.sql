@@ -1,0 +1,5 @@
+ALTER TABLE Users
+ADD Birthday DATE;
+
+SHOW TABLES;
+SELECT * FROM Users;

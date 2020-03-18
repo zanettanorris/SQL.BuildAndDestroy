@@ -1,0 +1,5 @@
+ALTER TABLE Users
+DROP COLUMN Birthday;
+
+SHOW TABLES;
+SELECT * FROM Users;

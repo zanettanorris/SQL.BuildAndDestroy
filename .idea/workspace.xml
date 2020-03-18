@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="504cad1e-28be-4107-86ee-5a539dfd2f96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1YzcSvSMux3YpjHI8HkxOJBbrkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@42cecea5" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@51ca7be0" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="56" key="#SQL_Dialects" timestamp="1583949161920">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="240" y="56" key="#SQL_Dialects/0.23.1280.736@0.23.1280.736" timestamp="1583949161920" />
+    <state x="480" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583955053896">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="480" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.736@0.23.1280.736" timestamp="1583955053896" />
+    <state x="360" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1583951882907" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1584506494327">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.23.1280.734@0.23.1280.734" timestamp="1584506494327" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.23.1280.736@0.23.1280.736" timestamp="1583953229043" />
+    <state width="832" height="37" key="GridCell.Tab.0.bottom" timestamp="1584506952374">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="832" height="37" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1584506952374" />
+    <state width="832" height="70" key="GridCell.Tab.0.bottom/0.23.1280.736/-316.-1057.1920.1057@0.23.1280.736" timestamp="1583949714794" />
+    <state width="832" height="132" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1583956503304" />
+    <state width="633" height="109" key="GridCell.Tab.0.bottom/0.23.1920.1016@0.23.1920.1016" timestamp="1583952163942" />
+    <state width="832" height="37" key="GridCell.Tab.0.center" timestamp="1584506952373">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="832" height="37" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1584506952373" />
+    <state width="832" height="70" key="GridCell.Tab.0.center/0.23.1280.736/-316.-1057.1920.1057@0.23.1280.736" timestamp="1583949714793" />
+    <state width="832" height="132" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1583956503303" />
+    <state width="633" height="109" key="GridCell.Tab.0.center/0.23.1920.1016@0.23.1920.1016" timestamp="1583952163941" />
+    <state width="832" height="37" key="GridCell.Tab.0.left" timestamp="1584506952372">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="832" height="37" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1584506952372" />
+    <state width="832" height="70" key="GridCell.Tab.0.left/0.23.1280.736/-316.-1057.1920.1057@0.23.1280.736" timestamp="1583949714791" />
+    <state width="832" height="132" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1583956503303" />
+    <state width="633" height="109" key="GridCell.Tab.0.left/0.23.1920.1016@0.23.1920.1016" timestamp="1583952163940" />
+    <state width="832" height="37" key="GridCell.Tab.0.right" timestamp="1584506952373">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="832" height="37" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1584506952373" />
+    <state width="832" height="70" key="GridCell.Tab.0.right/0.23.1280.736/-316.-1057.1920.1057@0.23.1280.736" timestamp="1583949714793" />
+    <state width="832" height="132" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1583956503304" />
+    <state width="633" height="109" key="GridCell.Tab.0.right/0.23.1920.1016@0.23.1920.1016" timestamp="1583952163941" />
+    <state x="171" y="37" key="SettingsEditor" timestamp="1583953474087">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="171" y="37" key="SettingsEditor/0.23.1280.736@0.23.1280.736" timestamp="1583953474087" />
+    <state x="366" y="101" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584506574332">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="366" y="101" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1280.734@0.23.1280.734" timestamp="1584506574332" />
+    <state x="366" y="101" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1280.736@0.23.1280.736" timestamp="1583956400528" />
+    <state x="117" y="138" width="953" height="736" key="dock-window-1" timestamp="1583953016500">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="651" y="-1057" width="953" height="963" key="dock-window-1/0.23.1280.736/-316.-1057.1920.1057@0.23.1280.736" timestamp="1583949930772" />
+    <state x="117" y="138" width="953" height="736" key="dock-window-1/0.23.1280.736@0.23.1280.736" timestamp="1583953016500" />
+    <state x="984" y="28" width="907" height="953" key="dock-window-1/0.23.1920.1016@0.23.1920.1016" timestamp="1583952436418" />
+  </component>
+</project>
