@@ -1,7 +1,7 @@
 
 UPDATE Students
 SET City = 'Edinburgh', Country = 'Scotland'
-WHERE ROW ( 35 );
+WHERE StudentName = 'Bili Clare';
 
 SELECT ROW_NUMBER() OVER (
     ORDER BY StudentName
