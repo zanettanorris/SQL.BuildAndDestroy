@@ -16,5 +16,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="jdbc:hsqldb:file:/Users/znorris/Downloads/Students (2).sql/" uuid="c589c39a-0041-43c3-88aa-76e6f8b9c1f3">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$USER_HOME$/Downloads/Students (2).sql/</jdbc-url>
+    </data-source>
   </component>
 </project>

@@ -29,5 +29,10 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="jdbc:hsqldb:file:/Users/znorris/Downloads/Students (2).sql/" uuid="c589c39a-0041-43c3-88aa-76e6f8b9c1f3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="HSQLDB" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
   </component>
 </project>
